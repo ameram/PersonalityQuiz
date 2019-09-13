@@ -28,7 +28,7 @@ enum AnimalType: Character {
     var definition: String {
     switch self {
     case .dog:
-        return "You are incredibly outgoing. You surround yourself with the people you love and enjoy activities with your friends."
+        return "You are incredibly outgoing... You surround yourself with the people you love and enjoy activities with your friends."
     case .cat:
         return "Mischievous, yet mild-tempered, you enjoy doing things on your own terms."
     case .rabbit:
